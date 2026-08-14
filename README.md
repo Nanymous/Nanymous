@@ -1,134 +1,68 @@
-<p align="center">
-
-  ![pf visito](https://komarev.com/ghpvc/?username=Nanymous&color=blueviolet)<img src="https://github.com/Nanymous/Nanymous/assets/104245967/70d5725e-39eb-445a-8a50-d134a2f3ece5" width="30px" alt="">
-  <a href="https://github.com/Nanymous"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Github!;👾ÐΛɌ₭ᑎΞ𐒡𐒡👾;&font=Pacifico&center=true&width=400&height=35&color=03ffcd&vCenter=true&size=25"></a>
-</p> 
-
-
- 
-<p>
-   <img  width="30%" src="https://github.com/Nanymous/Nanymous/assets/104245967/e6276e60-e061-4fc1-bd82-16f6569e30d7" />
-   
-   <img  align="right" width="30%" src="https://github.com/user-attachments/assets/575340a7-6a4c-4f21-903c-29b88ea9ff42" />
-</p> 
-
-<!--
-https://github-stats-alpha.vercel.app/api?username=Nanymous&cc=22272e&tc=37BCF6&ic=fff&bc=0000
--->
-<p align="center" >
-  <img src="./image/ct (5).gif" width="30px" alt="">
-<a href = "https://x.com/Nanymous"> <img src="https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=White&labelColor=0D1117" target="_blank"></a>
-  <a href="https://instagram.com/general_8585" target="_blank"><img src="https://img.shields.io/badge/-Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=magenta&labelColor=0D1117" target="_blank"></a>
-   <a href = "mailto:Manymuos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
-  <a href="https://t.me/Nanymous" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
-  <a href="https://github.com/Nanymous" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=orange&labelColor=0D1117" target="_blank"></a> 
-  </p>
-<!--
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nanymous) 
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nazky/Nazky/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center"width="99%">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+<div align="center">
+  <img src="https://gitskins.com/api/readme-reference/hero?username=Nanymous&theme=neon" alt="Nanymous Hero Banner">
+  <br>
+  <img src="https://gitskins.com/api/readme-reference/focus?username=Nanymous&theme=neon&focus=Software%20Developer%20%7C%20Problem%20Solver" alt="Nanymous Focus Banner">
+  <br>
+  <img src="https://gitskins.com/api/readme-reference/divider?username=Nanymous&theme=neon" alt="Divider">
 </div>
 
-<p>
-   <img  align="center" height="3px" width="99%" src="https://github.com/Nanymous/Nanymous/assets/104245967/15a9fad4-d747-464a-9cf9-e6304e03872d" />
-</p> 
+# 👋 سلام! من Nanymous هستم
 
+به پروفایل گیت‌هاب من خوش آمدید.
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+---
 
-<p>
-   <img  align="center" height="3px" width="99%" src="https://github.com/Nanymous/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
-</p> 
+<div align="center">
+  <img src="https://gitskins.com/api/readme-reference/divider?username=Nanymous&theme=neon" alt="Divider">
+</div>
 
+## 🛠️ مهارت‌ها و ابزارها
 
-<p align="center">
-  <img  width="18%" src="https://raw.githubusercontent.com/Nanymous/Nanymous/refs/heads/main/Image/left.webp">
-  <img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nanymous&theme=radical&border=7F3FBF&background=0D1117)"/>
-  <img  width="18%" src="https://raw.githubusercontent.com/Nanymous/Nanymous/refs/heads/main/Image/right.webp">
-</p>
+<details>
+<summary><b>زبان‌های برنامه‌نویسی</b></summary>
 
+- **دارت (Dart)** / **فلاتر (Flutter)**
+- **پایتون (Python)**
+- **پی اج پی (PHP)**
+- **لوا (Lua)**
+- **جاوااکریپت (JavaScript)** - در حال یادگیری
 
+</details>
 
-<p align="center">
-  <a href="https://github.com/Nanymous">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanymous&theme=radical" alt="Nanymous GitHub Contribution"/>
-  </a>
-</p>
+<details>
+<summary><b>فناوری‌های وب</b></summary>
+- **بک‌اند**: PHP, Laravel, Flask
+- **پایگاه داده**: SQLServer, MySQL, Redis
 
-<a> 
-  <a href="https://github.com/Nanymous"><img alt="Nanymous Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nanymous&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Nanymous"><img alt="Nanymous's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nanymous&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+</details>
 
+<details>
+<summary><b>ابزارها و پلتفرم‌ها</b></summary>
 
+- **کنترل نسخه**: Git, GitHub
+- **سیستم‌عامل**: Linux, Windows
+- **ویرایشگر**: VS Code
 
-![Nanymous Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nanymous&custom_title=Nanymous's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+</details>
 
+---
 
+## 📊 آمار گیت‌هاب
 
-## <img src="./image/fr.gif" width="30px" alt=""> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=**Nanymous**&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nanymous&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanymous&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</div>
+## 📫 راه‌های ارتباطی
 
-<!-- [![](https://visitcount.itsvg.in/api?id=Nanymous&icon=5&color=7)](https://visitcount.itsvg.in) -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nanymous)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nanymous)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Manymuos@gmail.com)
 
-## <img src="./image/pl (20).gif" width="30px" alt=""> Top Rep 
-<!--  <img  align="right" width="30%" src="https://github.com/Nanymous/Nanymous/blob/main/image/linerainbow2.gif" /> -->
-  [![wow](https://github-readme-stats.vercel.app/api/pin/?username=Nanymous&repo=WoW&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/Nanymous/WoW)
-  [![ESET-Key](https://github-readme-stats.vercel.app/api/pin/?username=Nanymous&repo=ESET-Key&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/Nanymous/ESET-Key)
-  [![Ip](https://github-readme-stats.vercel.app/api/pin/?username=Nanymous&repo=IP_Generator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/Nanymous/IP_Generator)
-  [![Hiddify-warp](https://github-readme-stats.vercel.app/api/pin/?username=Nanymous&repo=Hiddify-warp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/Nanymous/workers)
+---
 
-<p align="left">
-  <a href="https://github.com/Nanymous?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-b247ff?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://github.com/Nanymous"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=25"></a>
-</p>
-
-![rand](https://rand-xyz.now.sh/api/hello)
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="10%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-![rand](https://rand-xyz.now.sh/api/hello)
-
-
-<!--  ```match
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Nanymous/Nanymous/main/pattern.png');]{x0000}$}  -->
+<div align="center">
+  <img src="https://gitskins.com/api/readme-reference/divider?username=Nanymous&theme=neon" alt="Divider">
+  <br>
+  <span>⭐ از اینکه از پروفایل من دیدن کردید، سپاسگزارم!</span>
+</div>
