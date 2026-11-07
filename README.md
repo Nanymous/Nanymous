@@ -1,11 +1,8 @@
 <!--
   ┌──────────────────────────────────────────────────────────────────┐
-  │  PERSONALIZE ME — replace these placeholders before publishing:    │
-  │  YOUR_NAME · YOUR_LOCATION · YOUR_WEBSITE · YOUR_LINKEDIN_URL      │
-  │  YOUR_EMAIL                                                        │
-  │                                                                    │
-  │  Already configured: GitHub username Nanymous · projects           │
-  │  veldo-docs & hodhod-docs                                          │
+  │  Profile fully configured for Nanymous:                            │
+  │  GitHub github.com/Nanymous · Telegram t.me/Nanymous               │
+  │  Projects: veldo-docs & hodhod-docs                                │
   │  Setup guide: SETUP.md · Customization guide: CUSTOMIZATION.md     │
   └──────────────────────────────────────────────────────────────────┘
 -->
@@ -18,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Nanymous">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I%27m+YOUR_NAME;I+build+apps+with+Flutter+%26+Dart;I+craft+backends+with+Laravel+%26+Flask;I+explore+3D+on+the+web+with+Three.js;Currently+learning+JavaScript;Welcome+to+my+GitHub+profile" alt="Typing introduction: I build apps with Flutter and Dart, craft backends with Laravel and Flask, and explore 3D on the web with Three.js"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I%27m+Nanymous;I+build+apps+with+Flutter+%26+Dart;I+craft+backends+with+Laravel+%26+Flask;I+explore+3D+on+the+web+with+Three.js;Currently+learning+JavaScript;Welcome+to+my+GitHub+profile" alt="Typing introduction: I build apps with Flutter and Dart, craft backends with Laravel and Flask, and explore 3D on the web with Three.js"/>
   </a>
 </p>
 
@@ -44,7 +41,7 @@
 
 ```yaml
 # identity.yml
-name: Mohammad
+name: Nanymous
 location: [IRAN, Shiraz]
 focus:
   mobile:  [Flutter, Dart]
@@ -54,7 +51,6 @@ focus:
 currently_learning: JavaScript
 familiar_with: C#
 ask_me_about: [Dart, Flutter, Python, PHP, Laravel, Flask, Lua]
-# website: YOUR_WEBSITE
 ```
 
 <img src="https://raw.githubusercontent.com/Nanymous/Nanymous/main/assets/divider.svg" width="1200" alt=""/>
@@ -168,19 +164,14 @@ ask_me_about: [Dart, Flutter, Python, PHP, Laravel, Flask, Lua]
 
 ## // Contact & Social
 
-<!-- Replace YOUR_WEBSITE, YOUR_LINKEDIN_URL and YOUR_EMAIL with your real links. -->
-
 <p align="center">
   <a href="https://github.com/Nanymous">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — Nanymous"/>
   </a>
-  <a href="YOUR_WEBSITE">
-    <img src="https://img.shields.io/badge/Website-Visit-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website"/>
+  <a href="https://t.me/Nanymous">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram — Nanymous"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTExNiAzSDEyYTguOTEgOC45MSAwIDAwLTkgOC44djEwNC40MmE4LjkxIDguOTEgMCAwMDkgOC43OGgxMDRhOC45MyA4LjkzIDAgMDA5LTguODFWMTEuNzdBOC45MyA4LjkzIDAgMDAxMTYgM3pNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4=" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:manymuos@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

@@ -29,27 +29,30 @@ on the profile page. No extra configuration is needed for the README itself — 
 
 ---
 
-## 2. Personalize the placeholders
+## 2. Your identity (already configured)
 
-The GitHub username is **already set to `Nanymous` everywhere** — there is no `YOUR_GITHUB_USERNAME` left.
-Replace only the personal placeholders below (they are listed in a comment at the top of `README.md`):
+The profile is fully personalized for **Nanymous** — there are no `YOUR_*` placeholders left.
+These values live in `README.md` (the `identity.yml` block, the typing animation, the hero banner, and the Contact section):
 
-| Placeholder | Meaning | Where it appears |
+| Field | Value | Where it appears |
 | :--- | :--- | :--- |
-| `YOUR_NAME` | Your display name | Typing animation, `identity.yml` |
-| `YOUR_LOCATION` | Your city / country | `identity.yml` |
-| `YOUR_WEBSITE` | Portfolio / website URL | `identity.yml`, Website badge link |
-| `YOUR_LINKEDIN_URL` | Full LinkedIn profile URL | LinkedIn badge link |
-| `YOUR_EMAIL` | Email address | `mailto:` link |
+| Display name | `Nanymous` | Typing animation, `identity.yml`, hero banner |
+| Location | `IRAN, Shiraz` | `identity.yml` |
+| GitHub | `github.com/Nanymous` | Every stats/widget URL, Follow badge |
+| Telegram | `t.me/Nanymous` | Telegram badge link |
+| Email | `manymuos@gmail.com` | `mailto:` link |
+
+There is **no website and no LinkedIn** — the Contact section links GitHub, Telegram, and Email only.
+To change any of these, edit the value directly in `README.md` (see CUSTOMIZATION.md §10 for the social links).
 
 The **Featured Projects** section is already populated with your real repositories
 [`veldo-docs`](https://github.com/Nanymous/veldo-docs) and [`hodhod-docs`](https://github.com/Nanymous/hodhod-docs)
 (descriptions and stacks taken from their own READMEs / topics). Edit that table directly to add or change projects.
 
-Quick way to find the remaining placeholders:
+To confirm nothing is left to fill in:
 
 ```bash
-grep -n "YOUR_" README.md
+grep -n "YOUR_" README.md   # expect: no output
 ```
 
 ---
@@ -140,7 +143,7 @@ No other service needs configuration.
    for the contribution graph, snake, and trophies.
 5. Check the **Actions** tab: the snake run is green and the `output` branch exists.
 6. Resize to mobile width (or use device emulation): images scale down, badge rows wrap, nothing overflows.
-7. Re-run `grep -n "YOUR_" README.md` and make sure only intentional placeholders remain.
+7. Re-run `grep -n "YOUR_" README.md` — it should return nothing (the profile is fully configured).
 
 ### Troubleshooting
 

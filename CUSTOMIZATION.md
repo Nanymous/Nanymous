@@ -94,7 +94,7 @@ Spaces in Label/Message become `%20`. Logos come from [Simple Icons](https://sim
 
 ### Custom logos (data URI)
 
-Simple Icons no longer ships **LinkedIn**, **C#**, or **Microsoft SQL Server**, so those badges embed a
+Simple Icons no longer ships **C#** or **Microsoft SQL Server**, so those badges embed a
 white logo as a base64 data URI (`logo=data:image/svg+xml;base64,...`). To regenerate one from
 [Devicon](https://github.com/devicons/devicon):
 
@@ -200,9 +200,10 @@ The README uses a `<picture>` (dark → `discord`, light → `flat`) so text sta
 
 ## 10. Social links & projects
 
-- **Social** — in the Contact section, replace the `href` values (`YOUR_WEBSITE`, `YOUR_LINKEDIN_URL`, `mailto:YOUR_EMAIL`).
-  Badge display text is the `Label-Message` part of each shields URL (e.g. `Website-Visit`). Add a new network by copying
-  an `<a><img></a>` pair and choosing a [Simple Icons slug](https://simpleicons.org) (or a data-URI logo per section 4).
+- **Social** — the Contact section links **GitHub** (`github.com/Nanymous`), **Telegram** (`t.me/Nanymous`), and
+  **Email** (`mailto:manymuos@gmail.com`). To change a destination, edit the `<a href>`; the badge text is the
+  `Label-Message` part of each shields URL (e.g. `Telegram-Contact`). Add a new network by copying an `<a><img></a>`
+  pair and choosing a [Simple Icons slug](https://simpleicons.org) (or a data-URI logo per section 4).
 - **Projects** — the Featured Projects table currently lists [`veldo-docs`](https://github.com/Nanymous/veldo-docs)
   and [`hodhod-docs`](https://github.com/Nanymous/hodhod-docs); edit the rows to add or change projects. For live repo cards instead, self-host
   github-readme-stats (SETUP.md §4) and use:
